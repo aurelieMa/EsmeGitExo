@@ -1,0 +1,3 @@
+# Apply the default theme
+sns.set_theme("paper")
+sns.set_style("whitegrid")
