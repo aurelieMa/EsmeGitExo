@@ -18,3 +18,5 @@
 
 * Envoyer votre modification : `git push -u origin votre_nom_prenom`
  
+* Faire une deuxième modif dans le fichier sur la même branche (que vous ayez déjà ouvert une pull request ou non) puis push 
+
