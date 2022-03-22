@@ -28,7 +28,7 @@
 
 * Sur ramener les modifications qui ont été mergées : `git pull origin main`
 
-* Recréer une branche (peu importe le nom) : `git checkkout -b un_nom_unique....`
+* Recréer une branche (peu importe le nom) : `git checkout -b un_nom_unique....`
 
 * Modifier le fichier : `lenoir_antoine.py` en rajoutant une ligne avec : `print("un texte au choix... à changer")
 
