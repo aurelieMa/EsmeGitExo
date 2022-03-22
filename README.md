@@ -24,6 +24,6 @@
 
 * Attendre que je la valide
 
-* Retourner sur le master `git checkout master`
+* Retourner sur le main `git checkout main`
 
-* Sur ramener les modifications qui ont été mergées : `git pull origin master
+* Sur ramener les modifications qui ont été mergées : `git pull origin main
