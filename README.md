@@ -4,6 +4,8 @@
 
 * Cloner le projet : `git clone https://github.com/Fszta/EsmeGitExo.git`
 
+* 'Se mettre dans le dossier du projet clone' : `cd EsmeGitExo`
+
 * Créer une branche : `git checkout -b votre_nom_prenom`
 
 * Créer un fichier text : votre_nom_prenom.txt
