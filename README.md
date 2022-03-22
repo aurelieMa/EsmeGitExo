@@ -20,3 +20,4 @@
  
 * Faire une deuxième modif dans le fichier sur la même branche (que vous ayez déjà ouvert une pull request ou non) puis push 
 
+* Ouvrir une pull request (sur github)
