@@ -21,3 +21,9 @@
 * Faire une deuxième modif dans le fichier sur la même branche (que vous ayez déjà ouvert une pull request ou non) puis push 
 
 * Ouvrir une pull request (sur github)
+
+* Attendre que je la valide
+
+* Retourner sur le master `git checkout master`
+
+* Sur ramener les modifications qui ont été mergées : `git pull origin master
