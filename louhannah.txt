@@ -1,0 +1,7 @@
+# Apply the default theme
+sns.set_theme("paper")
+sns.set_style("whitegrid")
+
+print("hello")
+
+#Encore une modif
